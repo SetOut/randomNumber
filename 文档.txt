@@ -1,0 +1,7 @@
+toast('xxx')  // 打印内容
+sleep(1000) // 睡眠
+launchApp('app') // 打开应用
+back()   // 返回上一页
+home() // 返回首页
+swipe(起始位置x, 起始位置y, 终点位置x, 终点位置y, 时间) // 滑动  5个参数
+click(x,y) // 点击
